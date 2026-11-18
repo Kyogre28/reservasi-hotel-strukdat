@@ -1,2 +1,38 @@
-bangunin
-storages
+# Hasil kompilasi C/C++
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+
+# Folder hasil build
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+
+# File konfigurasi IDE/editor
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# File sementara
+*.log
+*.tmp
+*.swp
+*~
+
+# Cache sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
